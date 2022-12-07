@@ -1,0 +1,74 @@
+[
+    {
+        "id": "globosCristal",
+        "nombre": "globos Cristal",
+        "precio": 580,
+        "categoria": "globos",
+        "logo": "./../imagenes/globos/globos-feliz-cumpleaños-2.jfif",
+        "cantidad": 1
+    },
+    {
+        "id": "velaEstrella",
+        "nombre": "vela estrella",
+        "precio": 320,
+        "categoria": "velas",
+        "logo": "./../imagenes/Velas/vela-forma-1.avif",
+        "cantidad": 1
+    },
+    {
+        "id": "nieveLoca",
+        "nombre": "nieve loca",
+        "precio": 1500,
+        "categoria": "carioca",
+        "logo": "./../imagenes/Carioca/nieve-loca-3.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": "globoPerlado",
+        "nombre": "globo perlado",
+        "precio": 1400,
+        "categoria": "globos",
+        "logo": "./../imagenes/globos/globos-feliz-cumpleaños-1.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": "setDeGlobos",
+        "nombre": "set de globos",
+        "precio": 1100,
+        "categoria": "globos",
+        "logo": "./../imagenes/globos/globos-Feliz-Cumpleaños-9.jfif",
+        "cantidad": 1
+    },
+    {
+        "id": "bañoRepostero",
+        "nombre": "baño repostero",
+        "precio": 300,
+        "categoria": "reposteria comestible",
+        "logo": "./../imagenes/Reposteria-comestible/Chocolate-2.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": "disfrazDePolicia",
+        "nombre": "disfraz de polica",
+        "precio": 6000,
+        "categoria": "disfraces",
+        "logo": "./../imagenes/Disfrases/disfras-clasico-2.jfif",
+        "cantidad": 1
+    },
+    {
+        "id": "adornoDePlimPlim",
+        "nombre": "adorno de plim plim",
+        "precio": 500,
+        "categoria": "adornos",
+        "logo": "./../imagenes/Adornos/adorno-pelicula-3.jfif",
+        "cantidad": 1
+    },
+    {
+        "id": "mangaDeReposteria",
+        "nombre": "manga de reposteria",
+        "precio": 1600,
+        "categoria": "reposteria",
+        "logo": "./../imagenes/Reposteria/accesorio-2.jfif",
+        "cantidad": 1
+    }
+]
